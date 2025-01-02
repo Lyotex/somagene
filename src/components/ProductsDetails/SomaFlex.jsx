@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import somagene from "../../img/somagene vials.jpg";
+import somagene from "../../img/somagene-vials.png";
 import { Navigation } from "../navigation";
 import { Contact } from "../contact";
 import JsonData from "../../data/data.json";
